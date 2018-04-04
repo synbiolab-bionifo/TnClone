@@ -207,7 +207,7 @@ GPL v3
 ## Acknowledgements
 We thanks to Bang's lab for kind donation of their samples for testing TnClone.
 
-We also thanks to Junho Jung's lab for kind donation of their scFv samples.
+We also thanks to Junho Chung's lab for kind donation of their scFv samples.
 
 ## Contact
 For any other issue while using TnClone, please contact via team.tnclone@gmail.com
